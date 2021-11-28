@@ -1,8 +1,6 @@
 # Implement Progress
 ## Branch 정보
-Version1.0 -> Version1.1(구글 드라이브)
-           -> Version2.0 -> Version2.1
-                         -> Version3.0
+![image](https://user-images.githubusercontent.com/72330884/143763615-27594e70-aa3c-4a70-944e-e8b40d2d7454.png)
 
 
 
