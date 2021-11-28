@@ -7,3 +7,13 @@
 3. <strong>Import package</strong><br>제일 먼저 VRCSDK3-WORLD 패키지를 import한 뒤에 본 레포지토리에서 다운로드 받은 `SEProject.unitypackage` 를 import.<br>`SEProject/SEProject.unity` 파일을 더블클릭하면 구현된 맵이 보여지는데, 여기서 한 번 더 VRCSDK3-WORLD 패키지를 import!<br>(순서가 잘못되면 오류가 발생하더라고요...)<br><br>
 4. 플레이 or 구현 하시면 됩니다<br><br>
 5. Push할 때<br> 메뉴에 Assets -> Export packages 누르면 `.unitypackage` 파일 생성, 이후 업로드!
+
+## Issue!
+
+1. 학생들 대기 순서를 어떻게 저장할 것인지
+2. 가능하면 전체 대기실 -> 교수님 방 대기실 -> 교수님 방 가능한지
+
+## Additional
+
+1. Ticketing system: 문을 출입할 시 인식하는 기능 넣어서 방에 학생이 있는지 없는지 판단 작업 필요 (11/30까지 구현)
+
