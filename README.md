@@ -23,6 +23,7 @@
 ## Additional
 
 1. Ticketing system: ~~문을 출입할 시 인식하는 기능 넣어서 방에 학생이 있는지 없는지 판단 작업 필요 (11/30까지 구현)~~
+
    -> 수정: 교수님 방에 학생 있을 경우: Ticketing System 활성 waiting 순서 메인홀에 표시
    ->       교수님 방에 학생 없을 경우: Ticketing Sytem 비활성 
 
