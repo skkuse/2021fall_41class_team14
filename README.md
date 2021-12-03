@@ -19,7 +19,8 @@
 
 4.  원활한 integration을 위해 각자 작업물의 programVariable과 그것을 담고있는 udonbehavior object 정보를 정리해서 기록해야 할 것 같습니다.
 
-5.  현재 사용하고 있는 udon sharp package 업로드 하였습니다.
+5.  현재 사용하고 있는 udon sharp package 업로드 하였습니다. implement 디렉토리 안에 있으며, SDK3 import 후에 import 하시면 됩니다.
+    (SDK3 import -> udon sharp import -> SEProject import)
 
 ## Additional
 
