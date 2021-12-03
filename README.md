@@ -16,8 +16,10 @@
 ~~2. 가능하면 전체 대기실 -> 교수님 방 대기실 -> 교수님 방 가능한지~티켓~~
 
 3.  글자 입력시 VRChat 조작키도 같이 작동됨 (w를 쓰면 앞으로 가지면서 글자가 입력됨), 방법 찾는 중
-4.  github에 있는 ver.3~부터 이어서 작업하고자 했으나, import 후 scene이 뜨지 않아 이전에 작업중이던 개인 방에 구현
-   해당 파일은 외부 material을 포함하고 있어 용량을 초과, googleDrive에 우선 올렸습니다. (조민재)
+
+4.  원활한 integration을 위해 각자 작업물의 programVariable과 그것을 담고있는 udonbehavior object 정보를 정리해서 기록해야 할 것 같습니다.
+
+5.  현재 사용하고 있는 udon sharp package 업로드 하였습니다.
 
 ## Additional
 
