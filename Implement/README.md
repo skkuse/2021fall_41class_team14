@@ -33,3 +33,9 @@
 - 기능 구현: 교수님 call 버튼 누르면 밖 해당 학생에게 메시지를 보낸다
 - 지금 메시지 보낸 기능이 생각하지 못 해서 먼저 대체 방안을 하고 나중에 해결하면 수정할게예요
 - 대체 방안: 교수님 call 버튼 누르면 밖에서 공지가 난다.
+
+## Version 2.21
+
+- 기능 구현: door1, office1에 한해 ticketing, calling system 구현.
+  광장에 waiting (ticket-call)이 표시되며 일단 문 앞에 ticketing 버튼(yes or no)과 office1 에 call 버튼 생성.  
+- 현재는 ticketing button들이 상시 활성화(임시로 no 버튼 누르면 비활성화)이지만 door_open과 연계하여 door_open 활성화시부터 waiting (ticket - call)수에 따라 ticketing_buttons 활성화 하도록 해야함
