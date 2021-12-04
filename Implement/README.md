@@ -39,3 +39,8 @@
 - 기능 구현: door1, office1에 한해 ticketing, calling system 구현.
   광장에 waiting (ticket-call)이 표시되며 일단 문 앞에 ticketing 버튼(yes or no)과 office1 에 call 버튼 생성.  
 - 현재는 ticketing button들이 상시 활성화(임시로 no 버튼 누르면 비활성화)이지만 door_open과 연계하여 door_open 활성화시부터 waiting (ticket - call)수에 따라 ticketing_buttons 활성화 하도록 해야함
+
+## Version 2.22
+- 2.21에 이어서 작업
+- global variable에 각 문마다 입력된 번호값 string으로 저장되도록 함
+- office안에서 입력하는 값도 enter눌러야지만 적용되도록 함
