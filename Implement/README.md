@@ -3,8 +3,8 @@
 
 1. Version1.0 -> Version1.1(구글드라이브)
 2. Version1.0 -> Version2.0 -> Version2.1
-3. Version1.0 -> Version2.0 -> Version3.0
-
+~~3. Version1.0 -> Version2.0 -> Version3.0~~
+4. versioin2.21 -> version 2.211
 
 ## Version 1.0
 
@@ -24,9 +24,9 @@
 - 비밀번호를 입력하여 들어갈 땐 문 옆에 위치한 키패드를 누르고 enter버튼을 누르면 됨(진짜 키보드 말고 키패드에 있는 enter)
 - 방 안에서 문을 열어줘서 들어갈 땐 키패드 쓸 필요 없고, 방 번호 입력하고 엔터치고 문 클릭하면 바로 들어갈 수 있음
 
-## Version 3.0
+## ~~Version 3.0~~
 
-- 기능 구현: Ticketing System: 본인 이름 학번 입력시 대기 순서 나오게 구현
+~~- 기능 구현: Ticketing System: 본인 이름 학번 입력시 대기 순서 나오게 구현~~
 
 ## Version 2.21
 
@@ -38,3 +38,10 @@
 - 2.21에 이어서 작업
 - global variable에 각 문마다 입력된 번호값 string으로 저장되도록 함
 - office안에서 입력하는 값도 enter눌러야지만 적용되도록 함
+
+
+## Version 2.211
+ - 2.21에 이어서 작업
+ - 문에 입력한 방 번호에 따른 waiting order 수 변화
+ - 교수님이 waiting order를 알수 있도록 waiting order가 양수면 초록 구 0이면 빨간 구로 인지 가능
+ - 추가 구현 필요 사항: 교수님 버튼 비활성화, 교수님 방에 waiting order 수 표시, 2.22 버전 통합 필요
