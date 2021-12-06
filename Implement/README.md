@@ -3,6 +3,7 @@
 
 1. Version1.0 -> Version1.1(구글드라이브)
 2. Version1.0 -> Version2.0 -> Version2.1
+
 ~~3. Version1.0 -> Version2.0 -> Version3.0~~
 4. versioin2.21 -> version 2.211
 
@@ -24,9 +25,12 @@
 - 비밀번호를 입력하여 들어갈 땐 문 옆에 위치한 키패드를 누르고 enter버튼을 누르면 됨(진짜 키보드 말고 키패드에 있는 enter)
 - 방 안에서 문을 열어줘서 들어갈 땐 키패드 쓸 필요 없고, 방 번호 입력하고 엔터치고 문 클릭하면 바로 들어갈 수 있음
 
+
 ## ~~Version 3.0~~
 
 ~~- 기능 구현: Ticketing System: 본인 이름 학번 입력시 대기 순서 나오게 구현~~
+
+
 
 ## Version 2.21
 
