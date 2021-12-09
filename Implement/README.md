@@ -54,3 +54,6 @@
 ## Version 2.3
 - 2.211과 2.22 통합
 - 학생이 방 안에 있는지 없는지 알려주는 Global Variable 만들어놓음 (문 클릭해서 이동하면 bool = true, office에서 문 클릭해서 나오면 bool = false 방식으로 구현, 저장은 bool 배열에 하며 변수명은 studentinOffice 이다.)
+
+## Version 2.4
+- 기능 구현:교수님 call 버튼 누르면 광장에 있는 학생에게 알림을 공지한다
