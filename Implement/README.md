@@ -61,3 +61,6 @@
 
 ## Version 2.4
 - 기능 구현:교수님 call 버튼 누르면 광장에 있는 학생에게 알림을 공지한다
+
+## Version 2.41
+- Version 2.4 call 버튼 수정
