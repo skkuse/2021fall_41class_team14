@@ -15,4 +15,5 @@ VRChat SDK version: VRCSDK3
    - Unity 내 SEProject/SEProject.unity 파일을 더블클릭하면 구현된 맵이 보입니다!
  
 발표 자료: FINAL.pptx
+
 발표 영상: https://drive.google.com/file/d/1CKd0Vj0Wbat0U1K2laEkY1M3E2R4tXCp/view?usp=sharing
