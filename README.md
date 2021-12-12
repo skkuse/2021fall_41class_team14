@@ -7,25 +7,7 @@
 3. <strong>Import package</strong><br>제일 먼저 VRCSDK3-WORLD 패키지를 import한 뒤에 본 레포지토리에서 다운로드 받은 `SEProject.unitypackage` 를 import.<br>`SEProject/SEProject.unity` 파일을 더블클릭하면 구현된 맵이 보입니다!<br><br>
 4. <strong>Push할 때</strong><br>메뉴에 Assets -> Export packages 누르면 export할 항목을 선택할 수 있는데, 여기서 <strong>SEProject 폴더만</strong> 선택(그 밖에 udonsetting등을 건드리면 import시 에러가 느는 것으로 추측됨) -> `.unitypackage` 파일 생성, 이후 업로드!
 
-## Issue!
+## Final
 
-0. ver4.unitypackage(이은지)가 500MB를 넘어서 github에 업로드 불가. 일단 구글드라이브에 공유하였으며, 방법 찾는 중
-
-~~1. 학생들 대기 순서를 어떻게 저장할 것인지~~
-
-~~2. 가능하면 전체 대기실 -> 교수님 방 대기실 -> 교수님 방 가능한지~티켓~~
-
-3.  글자 입력시 VRChat 조작키도 같이 작동됨 (w를 쓰면 앞으로 가지면서 글자가 입력됨), 방법 찾는 중
-
-4.  원활한 integration을 위해 각자 작업물의 programVariable과 그것을 담고있는 udonbehavior object 정보를 정리해서 기록해야 할 것 같습니다.
-
-5.  현재 사용하고 있는 udon sharp package 업로드 하였습니다. implement 디렉토리 안에 있으며, SDK3 import 후에 import 하시면 됩니다.
-    (SDK3 import -> udon sharp import -> SEProject import)
-
-## Additional
-
-1. Ticketing system: ~~문을 출입할 시 인식하는 기능 넣어서 방에 학생이 있는지 없는지 판단 작업 필요 (11/30까지 구현)~~
-
-   -> 수정: 교수님 방에 학생 있을 경우: Ticketing System 활성 waiting 순서 메인홀에 표시
-   ->       교수님 방에 학생 없을 경우: Ticketing Sytem 비활성 
+최종버전은 final 폴더에 있습니다. final 폴더에 발표자료, 영상 및 최종 버전 산출물이 있고, 실행방법이 적혀있습니다. 
 
