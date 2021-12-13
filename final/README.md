@@ -10,7 +10,7 @@ VRChat SDK version: VRCSDK3
 
 3. Import package 
    - 제일 먼저 src 내 VRCSDK3-WORLD 패키지를 import
-   - UdonSharp_v0.20.3 패키지 import, please refer to `https://github.com/MerlinVR/UdonSharp/releases/tag/v0.20.3`
+   - UdonSharp_v0.20.3 패키지 import
    - SEProject_ver4.0 패키지 import
    - Unity 내 SEProject/SEProject.unity 파일을 더블클릭하면 구현된 맵이 보입니다!
  
